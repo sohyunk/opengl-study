@@ -1,2 +1,3 @@
 # openGL Tutorial
-참고 : http://www.opengl-tutorial.org/kr/
+modern openGL을 공부합니다.  
+참고 사이트 : [opengl-tutorial](http://www.opengl-tutorial.org/kr/)
